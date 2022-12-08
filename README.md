@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JK-Dev-Design
+- 👋 Hi, I’m @Just-1n-Case
 - 👀 I’m interested in programming & designing.
 - 🌱 I’m currently a middle school student.
 - 💞️ I’m looking to collaborate on a project with my fellow gitmates.
